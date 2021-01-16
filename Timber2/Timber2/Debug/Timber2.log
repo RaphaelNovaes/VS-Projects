@@ -1,0 +1,28 @@
+﻿  Timber2.cpp
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(51,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(54,49): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(57,49): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(262,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(287,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(355,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(358,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(379,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(382,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(401,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(404,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(423,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(426,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\Timber2\Timber2\Timber2.cpp(443,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber2.vcxproj -> C:\Users\rapha\Documents\VS Projects\Timber2\Debug\Timber2.exe

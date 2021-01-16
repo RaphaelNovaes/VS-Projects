@@ -1,0 +1,28 @@
+﻿  TextureHolder.cpp
+  Drawn.cpp
+  Engine.cpp
+C:\Users\rapha\Documents\VS Projects\TWL\Engine.cpp(8,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\Engine.cpp(9,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\Engine.cpp(11,52): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\Engine.cpp(11,38): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Input.cpp
+  Main.cpp
+  Update.cpp
+  Generating Code...
+  TWL.vcxproj -> C:\Users\rapha\Documents\VS Projects\TWL\Debug\TWL.exe

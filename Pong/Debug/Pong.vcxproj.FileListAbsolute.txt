@@ -1,0 +1,2 @@
+C:\Users\rapha\Documents\VS Projects\Pong\Debug\Pong.exe
+C:\Users\rapha\Documents\VS Projects\Pong\Debug\Pong.pdb
