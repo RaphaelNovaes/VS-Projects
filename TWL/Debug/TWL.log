@@ -1,4 +1,36 @@
-﻿  TextureHolder.cpp
+﻿  DetectCollisions.cpp
+C:\Users\rapha\Documents\VS Projects\TWL\DetectCollisions.cpp(9,16): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\DetectCollisions.cpp(10,17): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\DetectCollisions.cpp(24,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\DetectCollisions.cpp(24,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\DetectCollisions.cpp(28,44): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\TWL\DetectCollisions.cpp(36,19): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\DetectCollisions.cpp(37,18): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\DetectCollisions.cpp(44,47): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
   Drawn.cpp
   Engine.cpp
 C:\Users\rapha\Documents\VS Projects\TWL\Engine.cpp(8,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
@@ -21,8 +53,70 @@ C:\Users\rapha\Documents\VS Projects\TWL\Engine.cpp(11,38): warning C4244: 'argu
           [
               T=float
           ]
+  HUD.cpp
+C:\Users\rapha\Documents\VS Projects\TWL\HUD.cpp(32,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
   Input.cpp
+  LoadLevel.cpp
+C:\Users\rapha\Documents\VS Projects\TWL\LoadLevel.cpp(19,42): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\rapha\Documents\VS Projects\TWL\LoadLevel.cpp(20,39): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
   Main.cpp
+  PopulateEmitters.cpp
+C:\Users\rapha\Documents\VS Projects\TWL\PopulateEmitters.cpp(7,22): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\rapha\Documents\VS Projects\TWL\PopulateEmitters.cpp(19,61): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\PopulateEmitters.cpp(19,50): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\PopulateEmitters.cpp(19,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\PopulateEmitters.cpp(19,22): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\PopulateEmitters.cpp(22,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\PopulateEmitters.cpp(22,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\PopulateEmitters.cpp(24,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\PopulateEmitters.cpp(25,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\PopulateEmitters.cpp(26,40): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\VS Projects\TWL\PopulateEmitters.cpp(27,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SoundManager.cpp
   Update.cpp
   Generating Code...
   TWL.vcxproj -> C:\Users\rapha\Documents\VS Projects\TWL\Debug\TWL.exe

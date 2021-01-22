@@ -16,16 +16,18 @@ protected:
 	bool m_LeftPressed;
 	bool m_RightPressed;
 	// How long has this initiated a jump
+	float m_TimeThisJump;
+	// Has the player jus initiated a jump?
 	bool m_JustJumped = false;
 	// Private variables and functions come next
 
 private:
 	// What is the gravit
-	float m_Gravit;
+	float m_Gravity;
 	// How fast is the character
 	float m_Speed = 400;
 	// Where is the player
-	Vector2f m_position;
+	Vector2f m_Position;
 	// Where are the character varius body parts?
 	FloatRect m_Feet;
 	FloatRect m_Head;
